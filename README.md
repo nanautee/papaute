@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @papaute
+- 👋 Hi, I’m @nanautee
 - 👀 I’m interested in web/app code
 - 🌱 I’m currently learning react native and next.js
 - 💞️ I’m looking to collaborate on ...
